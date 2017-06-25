@@ -1,5 +1,9 @@
-# Artificial Neural Networks - Seoul AI Meetup Practice
+# Artificial Neural Networks
+
 Martin Kersner, <m.kersner@gmail.com>
+
+Practice of implementing Multilayer Perceptron trained with Stochastic Gradient Descent for [Seoul AI Meetup](https://www.meetup.com/Seoul-Artificial-Intelligence-Meetup/) on June 25, 2017.
+Implementation is within [Jupyter notebook](https://github.com/martinkersner/ann-meetup/blob/master/ann.ipynb).
 
 ## Get repository
 ```
